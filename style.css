@@ -1,0 +1,104 @@
+
+#name{
+    margin-right: 100px;
+    width: 100px;
+    margin: 0;
+    padding: 16px;
+    float: left;
+    padding:;
+    display: inline-block
+}
+
+.text {
+    font-family: "Arial";
+    color: black;
+    font-size: 8pt;
+    image-orientation: ;
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    opacity: 0.5;
+    background-color: transparent;
+    text-decoration: none;
+}
+#header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: inline-block;
+    align-content: center
+
+}
+#header li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+#header{
+    align-content: center
+}
+table{
+    width: inherit;
+    margin: auto;
+    align-content: center;
+}
+td:hover {opacity: 0.3}
+tr, td{
+    transition: opacity 1s;
+    align-content: center;
+    
+}
+#content-container{
+    padding-left: 16px;
+    float: left;
+}
+
+#page{
+    z-index: 1;
+    min-height: 326px;
+    background-image: none;
+    background-color: transparent;
+    padding-top: 2px;
+    padding-bottom: 62px;
+    float:left;
+    width: 100%;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#projects{
+    position: absolute;
+    top: 75px;
+}
+.mySlides{
+    position:absolute;
+    left:100px;
+    padding-top: 20px;
+    box-shadow:11px 11px 8px rgba(0,0,0,0.5);
+    border-width:1px;
+    border-color:#000000;
+    background-color:transparent;
+}
+#projects a{
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+    
+}
+
